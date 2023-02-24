@@ -1,4 +1,4 @@
-#+OPTIONS: \n:t ^:nil H:2
+#+OPTIONS: \n:t ^:nil H:2 toc:nil
 
 * 文章を書く練習をする場
 ** 000_文章を書く練習を始めます、という宣言
